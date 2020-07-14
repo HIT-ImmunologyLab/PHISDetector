@@ -1,0 +1,1 @@
+phage_id	phage_def	phage_pro_id	phage_uniprot_pro_id	phage_taxid	bac_id	bac_def	bac_pro_id	bac_uniprot_pro_id	bac_taxid	interaction_method	interaction_type

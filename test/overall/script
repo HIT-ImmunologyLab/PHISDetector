@@ -1,0 +1,1 @@
+/100T/ganr/PHIS/bin/PHIS_overall_phage_to_host_two_criteria --input /100T/ganr/PHIS/test1/NC_000 --output /100T/ganr/PHIS/test1 --min_mis_crispr 2 --min_cov_crispr 70 --min_per_prophage 30 --min_id_prophage 70 --min_cov_prophage 30 --min_PPI 1 --min_DDI 5 --min_per_blast 10 --min_id_blast 70 --min_cov_blast 10

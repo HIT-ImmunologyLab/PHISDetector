@@ -1,0 +1,1 @@
+/100T/ganr/PHIS/bin/PHIS_crispr --input /100T/ganr/PHIS/test1/NC_000.fna --output /100T/ganr/PHIS/test1/module_results/crispr --min_mis_crispr 2 --min_cov_crispr 70

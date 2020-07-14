@@ -1,0 +1,378 @@
+phage_id	phage_def	host_id	host_def	virhostmatcher_score	wish_score	codon_score
+NC_007054	Staphylococcus phage 47, complete genome	CP012119	Staphylococcus aureus subsp. aureus strain USA300_2014.C01 chromosome, complete genome	0.5720959999999999	-1.33039	0.07123962986172727
+NC_007054	Staphylococcus phage 47, complete genome	LT992463	Staphylococcus aureus isolate 2_LA_86 genome assembly, chromosome: I	0.567142	-1.30339	0.06650887797780877
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP026063	Staphylococcus aureus strain NRS149 chromosome, complete genome	0.557396	-1.33039	0.06803434241809954
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP017466	Staphylococcus nepalensis strain JS11 chromosome, complete genome	0.530332	-1.33128	0.06577899024420021
+NC_007054	Staphylococcus phage 47, complete genome	LT992456	Staphylococcus aureus isolate 1_1439 genome assembly, chromosome: I	0.5668059999999999	-1.30439	0.06879467987509205
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP010526	Staphylococcus aureus subsp. aureus ST772-MRSA-V strain DAR4145, complete genome	0.559172	-1.32943	0.06707492988026102
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP010402	Staphylococcus aureus subsp. aureus strain GR2, complete genome	0.566326	-1.331	0.07016575335412585
+NC_007054	Staphylococcus phage 47, complete genome	NC_014925	Staphylococcus pseudintermedius HKU10-03, complete genome	0.496146	-1.34372	0.07857134956531377
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP016760	Staphylococcus carnosus strain LTH 3730 chromosome, complete genome	0.504676	-1.33135	0.06461623658436454
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP019590	Staphylococcus aureus strain C2406 chromosome, complete genome	0.568816	-1.33006	0.07039362106899935
+NC_007054	Staphylococcus phage 47, complete genome	CP019594	Staphylococcus aureus strain GD1539 chromosome, complete genome	0.568166	-1.33021	0.06914933641296961
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP028163	Staphylococcus aureus strain CFSAN064038 chromosome, complete genome	0.571492	-1.32939	0.07077375140652314
+NC_007054	Staphylococcus phage 47, complete genome	CP029087	Staphylococcus aureus strain AR461 chromosome, complete genome	0.580092	-1.32991	0.07021419336329034
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP020467	Staphylococcus aureus strain CFSAN007896 chromosome, complete genome	0.568092	-1.33171	0.06989337299666863
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LT009690	Staphylococcus aureus strain NZAK3 genome assembly, chromosome: 1	0.560004	-1.32868	0.06788364615707503
+NC_007054	Staphylococcus phage 47, complete genome	NZ_AP017377	Staphylococcus aureus DNA, complete genome, strain: OC8	0.572424	-1.29657	0.0671115543420928
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP007674	Staphylococcus aureus strain CA15, complete genome	0.568486	-1.33031	0.07013382201222658
+NC_007054	Staphylococcus phage 47, complete genome	CP022894	Staphylococcus aureus strain 191 chromosome, complete genome	0.5586059999999999	-1.32815	0.06238409146544966
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP014441	Staphylococcus aureus strain USA300-SUR23, complete genome	0.571466	-1.32813	0.06951298930391024
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP014407	Staphylococcus aureus strain USA300-SUR12, complete genome	0.5690219999999999	-1.32999	0.070473843222975
+NC_007054	Staphylococcus phage 47, complete genome	CP017094	Staphylococcus aureus subsp. aureus strain 2148.C01 chromosome, complete genome	0.568418	-1.30194	0.06774341460462435
+NC_007054	Staphylococcus phage 47, complete genome	CP029629	Staphylococcus aureus strain MOK063 chromosome, complete genome	0.566004	-1.30382	0.06946505583715297
+NC_007054	Staphylococcus phage 47, complete genome	CP031664	Staphylococcus aureus strain 28 chromosome, complete genome	0.568006	-1.33107	0.07026873516866122
+NC_007054	Staphylococcus phage 47, complete genome	CP019595	Staphylococcus aureus strain GD1677 chromosome, complete genome	0.5638460000000001	-1.30404	0.06729468817451456
+NC_007054	Staphylococcus phage 47, complete genome	LS483311	Staphylococcus aureus strain NCTC6136 genome assembly, chromosome: 1	0.570486	-1.30115	0.06646658966355677
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LT996891	Staphylococcus aureus isolate 24117-WT genome assembly, chromosome: I	0.5610120000000001	-1.30461	0.06958757658089157
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP022720	Staphylococcus aureus strain 135 chromosome, complete genome	0.5634060000000001	-1.3319	0.06888368847191456
+NC_007054	Staphylococcus phage 47, complete genome	AP018586	Staphylococcus caprae JMUB590 DNA, complete genome	0.535466	-1.3306	0.062120654298300854
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP024809	Staphylococcus haemolyticus strain 83131A chromosome, complete genome	0.542096	-1.33554	0.06384573214026588
+NC_007054	Staphylococcus phage 47, complete genome	CP019593	Staphylococcus aureus strain GD705 chromosome, complete genome	0.567326	-1.33183	0.06970437412350766
+NC_007054	Staphylococcus phage 47, complete genome	NC_002953	Staphylococcus aureus strain MSSA476, complete genome	0.565454	-1.30399	0.06799452156157407
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP012119	Staphylococcus aureus subsp. aureus strain USA300_2014.C01 chromosome, complete genome	0.5720959999999999	-1.33039	0.07123962986172727
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP029685	Staphylococcus aureus strain CMRSA-3 chromosome, complete genome	0.565472	-1.32611	0.06848720903755985
+NC_007054	Staphylococcus phage 47, complete genome	CP031667	Staphylococcus aureus strain 199 chromosome, complete genome	0.573094	-1.32563	0.06853496125505593
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP021905	Staphylococcus aureus strain Seattle 1945 isolate G477 chromosome, complete genome	0.55609	-1.33134	0.06861554203651848
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP026968	Staphylococcus aureus strain FDAARGOS_1 chromosome, complete genome	0.56721	-1.30791	0.06744796030151935
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LT992476	Staphylococcus aureus isolate 21_LA_436 genome assembly, chromosome: I	0.5706800000000001	-1.3297	0.07066903812653494
+NC_007054	Staphylococcus phage 47, complete genome	CP026063	Staphylococcus aureus strain NRS149 chromosome, complete genome	0.557396	-1.33039	0.06803434241809954
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP014402	Staphylococcus aureus strain USA300-SUR11, complete genome	0.5717	-1.32805	0.0693431503848386
+NC_007054	Staphylococcus phage 47, complete genome	CP031661	Staphylococcus aureus strain 82 chromosome, complete genome	0.568012	-1.33107	0.07026868799587553
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LS483317	Staphylococcus aureus strain NCTC5663 genome assembly, chromosome: 1	0.5629	-1.32703	0.06693634724662886
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP026064	Staphylococcus aureus strain NRS271 chromosome, complete genome	0.5676	-1.30098	0.06912087650360309
+NC_007054	Staphylococcus phage 47, complete genome	CP035005	Staphylococcus aureus strain PCFH-226 chromosome, complete genome	0.564044	-1.33151	0.0712337934427677
+NC_007054	Staphylococcus phage 47, complete genome	CP031838	Staphylococcus aureus strain QD-CD9 chromosome, complete genome	0.5643	-1.33157	0.06955797676219122
+NC_007054	Staphylococcus phage 47, complete genome	CP032051	Staphylococcus aureus strain O17 chromosome, complete genome	0.5647960000000001	-1.3126	0.06795765051531821
+NC_007054	Staphylococcus phage 47, complete genome	CP031673	Staphylococcus aureus strain MOZ66 chromosome, complete genome	0.56063	-1.32507	0.06566813209808596
+NC_007054	Staphylococcus phage 47, complete genome	NC_007793	Staphylococcus aureus subsp. aureus USA300_FPR3757, complete genome	0.568964	-1.33	0.07041347049284358
+NC_007054	Staphylococcus phage 47, complete genome	NC_012121	Staphylococcus carnosus subsp. carnosus TM300 complete genome	0.501224	-1.33442	0.07441236036485391
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP013953	Staphylococcus aureus strain NCCP14558, complete genome	0.571392	-1.33061	0.06957354192547408
+NC_007054	Staphylococcus phage 47, complete genome	NC_016928	Staphylococcus aureus subsp. aureus M013, complete genome	0.558352	-1.33115	0.06886235962567153
+NC_007054	Staphylococcus phage 47, complete genome	NC_018608	Staphylococcus aureus 08BA02176, complete genome	0.565144	-1.30235	0.06705073672302729
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP022910	Staphylococcus aureus strain 164 chromosome, complete genome	0.56915	-1.33124	0.0702921368493575
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP016863	Staphylococcus aureus subsp. aureus strain 1625.CO1 chromosome, complete genome	0.568818	-1.30196	0.06764604098167837
+NC_007054	Staphylococcus phage 47, complete genome	CP026072	Staphylococcus aureus strain NRS120 chromosome, complete genome	0.57548	-1.29644	0.06862561800007622
+NC_007054	Staphylococcus phage 47, complete genome	LT992474	Staphylococcus aureus isolate 19_LA_388 genome assembly, chromosome: I	0.56767	-1.30525	0.06832907500664144
+NC_007054	Staphylococcus phage 47, complete genome	LR134351	Staphylococcus aureus strain NCTC13811 genome assembly, chromosome: 1	0.5768679999999999	-1.31383	0.07012953908040712
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LN854556	Staphylococcus aureus strain BB155 genome assembly, chromosome: 1	0.569708	-1.33134	0.06922858060585362
+NC_007054	Staphylococcus phage 47, complete genome	NC_017338	Staphylococcus aureus subsp. aureus JKD6159, complete genome	0.566486	-1.3319	0.0701427767800617
+NC_007054	Staphylococcus phage 47, complete genome	LR134090	Staphylococcus aureus strain NCTC9555 genome assembly, chromosome: 1	0.5672699999999999	-1.31248	0.0630262676585051
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP014420	Staphylococcus aureus strain USA300-SUR16, complete genome	0.5717380000000001	-1.32799	0.06938881559244439
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP029681	Staphylococcus aureus strain AR_0473 chromosome, complete genome	0.56688	-1.30169	0.06866565064535628
+NC_007054	Staphylococcus phage 47, complete genome	CP031839	Staphylococcus aureus strain NX-T55 chromosome, complete genome	0.564298	-1.30826	0.07042620454172774
+NC_007054	Staphylococcus phage 47, complete genome	CP020467	Staphylococcus aureus strain CFSAN007896 chromosome, complete genome	0.568092	-1.33171	0.06989337299666863
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LT992461	Staphylococcus aureus isolate 8_LA_272 genome assembly, chromosome: I	0.571278	-1.30175	0.06705752032290464
+NC_007054	Staphylococcus phage 47, complete genome	CP022717	Staphylococcus aureus strain 27 chromosome, complete genome	0.5712360000000001	-1.30237	0.06729938648858687
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP014409	Staphylococcus aureus strain USA300-SUR13, complete genome	0.571798	-1.32798	0.06938157758472194
+NC_007054	Staphylococcus phage 47, complete genome	CP026968	Staphylococcus aureus strain FDAARGOS_1 chromosome, complete genome	0.56721	-1.30791	0.06744796030151935
+NC_007054	Staphylococcus phage 47, complete genome	CP029649	Staphylococcus aureus strain AR_0472 chromosome, complete genome	0.566874	-1.3017	0.06866099429418572
+NC_007054	Staphylococcus phage 47, complete genome	NC_020164	Staphylococcus warneri SG1, complete genome	0.550006	-1.33309	0.06638598770091282
+NC_007054	Staphylococcus phage 47, complete genome	CP027486	Staphylococcus aureus strain ST2594 isolate 004 chromosome, complete genome	0.564646	-1.30327	0.06792820472998509
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP007499	Staphylococcus aureus strain 2395 USA500, complete genome	0.573414	-1.32878	0.06874797886075576
+NC_007054	Staphylococcus phage 47, complete genome	CP022720	Staphylococcus aureus strain 135 chromosome, complete genome	0.5634060000000001	-1.3319	0.06888368847191456
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP022908	Staphylococcus aureus strain 545 chromosome, complete genome	0.580122	-1.32917	0.06941186996200746
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP019563	Staphylococcus aureus strain SR434, complete genome	0.558902	-1.32976	0.0693973076139142
+NC_007054	Staphylococcus phage 47, complete genome	CP030326	Staphylococcus aureus strain AR_474 chromosome, complete genome	0.5719099999999999	-1.30014	0.0663547469072733
+NC_007054	Staphylococcus phage 47, complete genome	CP030138	Staphylococcus aureus strain M48 chromosome, complete genome	0.564238	-1.32775	0.07043140392076423
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP007676	Staphylococcus aureus strain HUV05, complete genome	0.5686180000000001	-1.33027	0.06992347082286988
+NC_007054	Staphylococcus phage 47, complete genome	LT992462	Staphylococcus aureus isolate 5_3949 genome assembly, chromosome: I	0.585154	-1.31084	0.09593588579037647
+NC_007054	Staphylococcus phage 47, complete genome	LS483317	Staphylococcus aureus strain NCTC5663 genome assembly, chromosome: 1	0.5629	-1.32703	0.06693634724662886
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP007454	Staphylococcus aureus strain 502A, complete genome	0.557382	-1.32998	0.07026559210211263
+NC_007054	Staphylococcus phage 47, complete genome	LT992477	Staphylococcus aureus isolate 22_LA_562 genome assembly, chromosome: I	0.573268	-1.31472	0.06915766749921505
+NC_007054	Staphylococcus phage 47, complete genome	CP026073	Staphylococcus aureus strain Mw2 chromosome, complete genome	0.565582	-1.30161	0.06826929226712738
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LS483319	Staphylococcus aureus strain NCTC13140 genome assembly, chromosome: 1	0.565706	-1.32479	0.059916318627701505
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LT996890	Staphylococcus aureus isolate 24117-SCV genome assembly, chromosome: I	0.561008	-1.30462	0.0695902966493708
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LT992474	Staphylococcus aureus isolate 19_LA_388 genome assembly, chromosome: I	0.56767	-1.30525	0.06832907500664144
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP017091	Staphylococcus aureus subsp. aureus strain ISU926, complete genome	0.5695520000000001	-1.33141	0.06978826954497595
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP018629	Staphylococcus aureus strain MRSA107 chromosome, complete genome	0.572832	-1.3033	0.07886278414003674
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP019593	Staphylococcus aureus strain GD705 chromosome, complete genome	0.567326	-1.33183	0.06970437412350766
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP022718	Staphylococcus aureus strain 45 chromosome, complete genome	0.5634060000000001	-1.3319	0.06888367430330988
+NC_007054	Staphylococcus phage 47, complete genome	CP026964	Staphylococcus aureus strain FDAARGOS_2 chromosome, complete genome	0.5655060000000001	-1.33059	0.07016502599539712
+NC_007054	Staphylococcus phage 47, complete genome	LT992473	Staphylococcus aureus isolate 14_5418 genome assembly, chromosome: I	0.567276	-1.32983	0.0700305963374484
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP026076	Staphylococcus aureus strain TCH 959 chromosome, complete genome	0.567814	-1.33044	0.0701702923944367
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP026074	Staphylococcus aureus strain HPV107 chromosome, complete genome	0.5768059999999999	-1.33156	0.070740722017669
+NC_007054	Staphylococcus phage 47, complete genome	CP029664	Staphylococcus aureus strain AR_0226 chromosome, complete genome	0.5687139999999999	-1.30202	0.06806248387792668
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP022894	Staphylococcus aureus strain 191 chromosome, complete genome	0.5586059999999999	-1.32815	0.06238409146544966
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP012018	Staphylococcus aureus subsp. aureus strain Gv88, complete genome	0.571894	-1.32921	0.0699823263126717
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP013137	Staphylococcus aureus strain XQ, complete genome	0.57206	-1.33148	0.06947453408872423
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP010890	Staphylococcus aureus strain SA564, complete genome	0.559336	-1.32861	0.06796621702264768
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LS483316	Staphylococcus aureus strain NCTC13395 genome assembly, chromosome: 1	0.557924	-1.33198	0.07103797096527333
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP026073	Staphylococcus aureus strain Mw2 chromosome, complete genome	0.565582	-1.30161	0.06826929226712738
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP013957	Staphylococcus aureus strain V521, complete genome	0.5648960000000001	-1.32729	0.07010666795491986
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP013621	Staphylococcus aureus strain RIVM3897, complete genome	0.576808	-1.30938	0.06883783277426399
+NC_007054	Staphylococcus phage 47, complete genome	CP026067	Staphylococcus aureus strain NRS153 chromosome, complete genome	0.576606	-1.33011	0.06827847488032153
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP022290	Staphylococcus aureus subsp. aureus strain EDCC5458 chromosome, complete genome	0.572198	-1.32875	0.06968448165830503
+NC_007054	Staphylococcus phage 47, complete genome	CP022903	Staphylococcus aureus strain 187 chromosome, complete genome	0.5587219999999999	-1.33211	0.07617256960981666
+NC_007054	Staphylococcus phage 47, complete genome	LS483365	Staphylococcus aureus strain NCTC8325 genome assembly, chromosome: 1	0.572314	-1.33163	0.07137653386647279
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP022682	Staphylococcus aureus strain 78 chromosome, complete genome	0.571256	-1.30237	0.06729887224386993
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LT996889	Staphylococcus aureus isolate 24117-REV genome assembly, chromosome: I	0.561008	-1.30462	0.06958762625041312
+NC_007054	Staphylococcus phage 47, complete genome	LS483301	Staphylococcus aureus strain NCTC13394 genome assembly, chromosome: 1	0.56724	-1.33293	0.07102244309198591
+NC_007054	Staphylococcus phage 47, complete genome	CP022582	Staphylococcus aureus strain FORC_062 chromosome, complete genome	0.5710759999999999	-1.3276	0.06824792316671473
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP022898	Staphylococcus aureus strain 422 chromosome, complete genome	0.564596	-1.3302	0.0670678626021823
+NC_007054	Staphylococcus phage 47, complete genome	LT996890	Staphylococcus aureus isolate 24117-SCV genome assembly, chromosome: I	0.561008	-1.30462	0.0695902966493708
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP014438	Staphylococcus aureus strain USA300-SUR22, complete genome	0.57148	-1.32813	0.06951301457171641
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LT992468	Staphylococcus aureus isolate 12_LA_293 genome assembly, chromosome: I	0.5754239999999999	-1.32874	0.06915377364242255
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP013218	Staphylococcus aureus subsp. aureus strain LA-MRSA ST398 isolate E154 chromosome, complete genome	0.569454	-1.33139	0.06970061666944602
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP029652	Staphylococcus aureus strain AR_0471 chromosome, complete genome	0.5608139999999999	-1.32989	0.07114836574399154
+NC_007054	Staphylococcus phage 47, complete genome	CP020957	Staphylococcus aureus strain C3948 chromosome, complete genome	0.5671919999999999	-1.30254	0.06813799256518742
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP029649	Staphylococcus aureus strain AR_0472 chromosome, complete genome	0.566874	-1.3017	0.06866099429418572
+NC_007054	Staphylococcus phage 47, complete genome	NC_017351	Staphylococcus aureus subsp. aureus 11819-97, complete genome	0.5699380000000001	-1.32919	0.06922057065729358
+NC_007054	Staphylococcus phage 47, complete genome	CP026961	Staphylococcus aureus strain FDAARGOS_10 chromosome, complete genome	0.5765279999999999	-1.29019	0.05957026269547234
+NC_007054	Staphylococcus phage 47, complete genome	CP022893	Staphylococcus aureus strain 61 chromosome, complete genome	0.5586180000000001	-1.32815	0.062392415663764154
+NC_007054	Staphylococcus phage 47, complete genome	LR134267	Staphylococcus aureus strain NCTC5661 genome assembly, chromosome: 1	0.49076	-1.34462	0.07236241534780187
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP022717	Staphylococcus aureus strain 27 chromosome, complete genome	0.5712360000000001	-1.30237	0.06729938648858687
+NC_007054	Staphylococcus phage 47, complete genome	NC_017763	Staphylococcus aureus subsp. aureus HO 5096 0412 complete genome	0.566676	-1.33153	0.06967551077776034
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP029678	Staphylococcus aureus strain AR_0216 chromosome, complete genome	0.5718559999999999	-1.32752	0.06948198960743823
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP006630	Staphylococcus aureus subsp. aureus SA268, complete genome	0.5604359999999999	-1.33112	0.06998395160760927
+NC_007054	Staphylococcus phage 47, complete genome	LR027878	Staphylococcus aureus strain BPH2003 genome assembly, chromosome: 1	0.561972	-1.3279	0.06943955648865315
+NC_007054	Staphylococcus phage 47, complete genome	NC_007622	Staphylococcus aureus RF122 complete genome	0.558808	-1.3296	0.06841068388842059
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP025031	Staphylococcus haemolyticus strain SGAir0252 chromosome, complete genome	0.545676	-1.33428	0.07185725467972344
+NC_007054	Staphylococcus phage 47, complete genome	NC_003923	Staphylococcus aureus subsp. aureus MW2 DNA, complete genome	0.565326	-1.33116	0.07000371984540134
+NC_007054	Staphylococcus phage 47, complete genome	LT992476	Staphylococcus aureus isolate 21_LA_436 genome assembly, chromosome: I	0.5706800000000001	-1.3297	0.07066903812653494
+NC_007054	Staphylococcus phage 47, complete genome	CP024809	Staphylococcus haemolyticus strain 83131A chromosome, complete genome	0.542096	-1.33554	0.06384573214026588
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP026072	Staphylococcus aureus strain NRS120 chromosome, complete genome	0.57548	-1.29644	0.06862561800007622
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP010297	Staphylococcus aureus strain 33b, complete genome	0.5689040000000001	-1.33001	0.0704216123665875
+NC_007054	Staphylococcus phage 47, complete genome	LT992460	Staphylococcus aureus isolate 9_LA_281 genome assembly, chromosome: I	0.570362	-1.32909	0.0703304541887541
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LT992456	Staphylococcus aureus isolate 1_1439 genome assembly, chromosome: I	0.5668059999999999	-1.30439	0.06879467987509205
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP009361	Staphylococcus aureus subsp. aureus strain ATCC 25923, complete genome	0.5560860000000001	-1.33135	0.06861516693700472
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP012120	Staphylococcus aureus subsp. aureus strain USA300_2014.C02 chromosome, complete genome	0.568418	-1.30188	0.06755976763294798
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP026067	Staphylococcus aureus strain NRS153 chromosome, complete genome	0.576606	-1.33011	0.06827847488032153
+NC_007054	Staphylococcus phage 47, complete genome	NC_009641	Staphylococcus aureus subsp. aureus str. Newman DNA, complete genome	0.566174	-1.32577	0.06825513432115766
+NC_007054	Staphylococcus phage 47, complete genome	CP028163	Staphylococcus aureus strain CFSAN064038 chromosome, complete genome	0.571492	-1.32939	0.07077375140652314
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP014426	Staphylococcus aureus strain USA300-SUR18	0.571734	-1.32799	0.06938792711902378
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP010295	Staphylococcus aureus strain 29b_MRSA, complete genome	0.568948	-1.33002	0.07042285265566886
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LT992465	Staphylococcus aureus isolate 6_LA_232 genome assembly, chromosome: I	0.5674600000000001	-1.30186	0.0679210767931116
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP029663	Staphylococcus aureus strain AR_0228 chromosome, complete genome	0.562044	-1.32827	0.06602011527996675
+NC_007054	Staphylococcus phage 47, complete genome	CP022898	Staphylococcus aureus strain 422 chromosome, complete genome	0.564596	-1.3302	0.0670678626021823
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP012015	Staphylococcus aureus subsp. aureus strain Gv51, complete genome	0.571754	-1.32944	0.07008471181821682
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LS483484	Staphylococcus aureus strain NCTC13277 genome assembly, chromosome: 1	0.567578	-1.33131	0.07035592567182611
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP010300	Staphylococcus aureus strain 27b_MRSA, complete genome	0.568928	-1.33002	0.07042220386168047
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP017460	Staphylococcus nepalensis strain JS1 chromosome, complete genome	0.531998	-1.33171	0.06755142456494148
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LT992471	Staphylococcus aureus isolate 17_LA_343 genome assembly, chromosome: I	0.571758	-1.30016	0.06669346294983837
+NC_007054	Staphylococcus phage 47, complete genome	NC_002952	Staphylococcus aureus subsp. aureus strain MRSA252, complete genome	0.567612	-1.3313	0.07033905853987657
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP022892	Staphylococcus aureus strain 54 chromosome, complete genome	0.566794	-1.33109	0.06949982590909258
+NC_007054	Staphylococcus phage 47, complete genome	CP022906	Staphylococcus aureus strain 546 chromosome, complete genome	0.5772079999999999	-1.33141	0.07033683487287314
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP024998	Staphylococcus aureus strain 55-99-44 chromosome, complete genome	0.5667960000000001	-1.33236	0.06987593572188164
+NC_007054	Staphylococcus phage 47, complete genome	CP034441	Staphylococcus aureus strain PMB 81-4 chromosome, complete genome	0.569396	-1.3021	0.0689610004671618
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP007659	Staphylococcus aureus subsp. aureus strain H-EMRSA-15, complete genome	0.567148	-1.33104	0.06950237884393408
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP029032	Staphylococcus aureus subsp. aureus strain OXLIM chromosome, complete genome	0.568956	-1.33	0.07041359774558399
+NC_007054	Staphylococcus phage 47, complete genome	CP022718	Staphylococcus aureus strain 45 chromosome, complete genome	0.5634060000000001	-1.3319	0.06888367430330988
+NC_007054	Staphylococcus phage 47, complete genome	NC_010079	Staphylococcus aureus subsp. aureus USA300_TCH1516, complete genome	0.56901	-1.33001	0.0704257760365544
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP029082	Staphylococcus aureus strain AR465 chromosome, complete genome	0.58077	-1.27425	0.0671962278163343
+NC_007054	Staphylococcus phage 47, complete genome	NC_021554	Staphylococcus aureus CA-347, complete genome	0.571068	-1.3317	0.07109817807479218
+NC_007054	Staphylococcus phage 47, complete genome	LT992475	Staphylococcus aureus isolate 20_LA_415 genome assembly, chromosome: I	0.57155	-1.32857	0.07055164991966179
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP014435	Staphylococcus aureus strain USA300-SUR21, complete genome	0.571828	-1.32798	0.06938248419315088
+NC_007054	Staphylococcus phage 47, complete genome	CP029627	Staphylococcus aureus strain MOK042 chromosome, complete genome	0.5686260000000001	-1.3038	0.06620858150753985
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP026066	Staphylococcus aureus strain NRS484 chromosome, complete genome	0.5644359999999999	-1.33124	0.06985041345299538
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LS483300	Staphylococcus aureus strain NCTC7485 genome assembly, chromosome: 1	0.5552900000000001	-1.32951	0.06759155223361611
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP010298	Staphylococcus aureus strain 26b_MRSA, complete genome	0.568924	-1.33003	0.07042674251338132
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LT992463	Staphylococcus aureus isolate 2_LA_86 genome assembly, chromosome: I	0.567142	-1.30339	0.06650887797780877
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP007176	Staphylococcus aureus USA300-ISMMS1, complete genome	0.571782	-1.33025	0.07114502040716968
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LT992477	Staphylococcus aureus isolate 22_LA_562 genome assembly, chromosome: I	0.573268	-1.31472	0.06915766749921505
+NC_007054	Staphylococcus phage 47, complete genome	NC_021670	Staphylococcus aureus, complete genome	0.57223	-1.31017	0.07604371758762468
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP015645	Staphylococcus aureus strain 08-02119, complete genome	0.566952	-1.29822	0.07036932161583072
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LT992470	Staphylococcus aureus isolate 13_LA_301 genome assembly, chromosome: I	0.566962	-1.32976	0.07004402337267517
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP020019	Staphylococcus aureus strain 08S00974 chromosome, complete genome	0.565	-1.33077	0.06909777966056019
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP007539	Staphylococcus aureus subsp. aureus strain FDAARGOS_5 chromosome, complete genome	0.564038	-1.33203	0.0702830948976477
+NC_007054	Staphylococcus phage 47, complete genome	CP026076	Staphylococcus aureus strain TCH 959 chromosome, complete genome	0.567814	-1.33044	0.0701702923944367
+NC_007054	Staphylococcus phage 47, complete genome	NZ_AP014956	Staphylococcus capitis DNA, complete genome, strain: TW2795	0.544808	-1.33242	0.06250593151595948
+NC_007054	Staphylococcus phage 47, complete genome	CP022892	Staphylococcus aureus strain 54 chromosome, complete genome	0.566794	-1.33109	0.06949982590909258
+NC_007054	Staphylococcus phage 47, complete genome	CP029685	Staphylococcus aureus strain CMRSA-3 chromosome, complete genome	0.565472	-1.32611	0.06848720903755985
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP014423	Staphylococcus aureus strain USA300-SUR17, complete genome	0.571732	-1.32799	0.069386800125528
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP028190	Staphylococcus aureus strain CFSAN018749 chromosome, complete genome	0.570794	-1.30162	0.06785168452955369
+NC_007054	Staphylococcus phage 47, complete genome	NC_022113	Staphylococcus aureus subsp. aureus 55/2053, complete genome	0.55878	-1.33216	0.07061599709211837
+NC_007054	Staphylococcus phage 47, complete genome	CP026066	Staphylococcus aureus strain NRS484 chromosome, complete genome	0.5644359999999999	-1.33124	0.06985041345299538
+NC_007054	Staphylococcus phage 47, complete genome	LT996889	Staphylococcus aureus isolate 24117-REV genome assembly, chromosome: I	0.561008	-1.30462	0.06958762625041312
+NC_007054	Staphylococcus phage 47, complete genome	CP034102	Staphylococcus aureus strain O267 chromosome, complete genome	0.5688679999999999	-1.31056	0.06782085970284393
+NC_007054	Staphylococcus phage 47, complete genome	CP033865	Staphylococcus aureus strain FDAARGOS_504 chromosome, complete genome	0.55696	-1.33088	0.06962041629696378
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LS483365	Staphylococcus aureus strain NCTC8325 genome assembly, chromosome: 1	0.572314	-1.33163	0.07137653386647279
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP022905	Staphylococcus aureus strain 628 chromosome, complete genome	0.558646	-1.32817	0.06239215328625825
+NC_007054	Staphylococcus phage 47, complete genome	CP029680	Staphylococcus aureus strain AR_0215 chromosome, complete genome	0.572496	-1.30182	0.06914998880043612
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP020741	Staphylococcus aureus strain HZW450 chromosome, complete genome	0.557824	-1.33133	0.06894832734211898
+NC_007054	Staphylococcus phage 47, complete genome	CP026957	Staphylococcus aureus strain FDAARGOS_43 chromosome, complete genome	0.565266	-1.30165	0.06820061944788332
+NC_007054	Staphylococcus phage 47, complete genome	CP022897	Staphylococcus aureus strain 128 chromosome, complete genome	0.5645899999999999	-1.3302	0.06707440660807658
+NC_007054	Staphylococcus phage 47, complete genome	LT992469	Staphylococcus aureus isolate 15_LA_305 genome assembly, chromosome: I	0.56999	-1.30353	0.06753947016747262
+NC_007054	Staphylococcus phage 47, complete genome	CP022908	Staphylococcus aureus strain 545 chromosome, complete genome	0.580122	-1.32917	0.06941186996200746
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP012013	Staphylococcus aureus subsp. aureus strain Be62, complete genome	0.5709139999999999	-1.3294	0.07002692258988474
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP019595	Staphylococcus aureus strain GD1677 chromosome, complete genome	0.5638460000000001	-1.30404	0.06729468817451456
+NC_007054	Staphylococcus phage 47, complete genome	LS483319	Staphylococcus aureus strain NCTC13140 genome assembly, chromosome: 1	0.565706	-1.32479	0.059916318627701505
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP029627	Staphylococcus aureus strain MOK042 chromosome, complete genome	0.5686260000000001	-1.3038	0.06620858150753985
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP029669	Staphylococcus aureus strain AR_0223 chromosome, complete genome	0.56098	-1.32948	0.06957162309339605
+NC_007054	Staphylococcus phage 47, complete genome	CP026071	Staphylococcus aureus strain NRS143 chromosome, complete genome	0.559822	-1.32961	0.07023013821057005
+NC_007054	Staphylococcus phage 47, complete genome	LT992465	Staphylococcus aureus isolate 6_LA_232 genome assembly, chromosome: I	0.5674600000000001	-1.30186	0.0679210767931116
+NC_007054	Staphylococcus phage 47, complete genome	LR134088	Staphylococcus aureus strain NCTC5660 genome assembly, chromosome: 1	0.5554399999999999	-1.32943	0.06762160849942306
+NC_007054	Staphylococcus phage 47, complete genome	CP026064	Staphylococcus aureus strain NRS271 chromosome, complete genome	0.5676	-1.30098	0.06912087650360309
+NC_007054	Staphylococcus phage 47, complete genome	CP016861	Staphylococcus aureus subsp. aureus strain 1969.N chromosome, complete genome	0.568352	-1.30187	0.06756479988927841
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP007657	Staphylococcus aureus strain V2200, complete genome	0.56795	-1.33031	0.06986134131113843
+NC_007054	Staphylococcus phage 47, complete genome	LR130515	Staphylococcus aureus strain BPH2947 genome assembly, chromosome: 1	0.562146	-1.32769	0.06937885856643668
+NC_007054	Staphylococcus phage 47, complete genome	LT992464	Staphylococcus aureus isolate 3_LA_115 genome assembly, chromosome: I	0.569928	-1.32885	0.07062406217996574
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP019594	Staphylococcus aureus strain GD1539 chromosome, complete genome	0.568166	-1.33021	0.06914933641296961
+NC_007054	Staphylococcus phage 47, complete genome	CP025023	Staphylococcus argenteus strain XNO106 chromosome, complete genome	0.5552900000000001	-1.32911	0.06760655290842481
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP023390	Staphylococcus aureus subsp. aureus str. Newman chromosome, complete genome	0.566198	-1.32578	0.06825598544219695
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP029629	Staphylococcus aureus strain MOK063 chromosome, complete genome	0.566004	-1.30382	0.06946505583715297
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP010299	Staphylococcus aureus strain 25b_MRSA, complete genome	0.568944	-1.33002	0.07042247040230856
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP014429	Staphylococcus aureus strain USA300-SUR19, complete genome	0.571752	-1.32799	0.06938904233882598
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP011147	Staphylococcus aureus strain FCFHV36, complete genome	0.569956	-1.33169	0.07103493949395717
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP029664	Staphylococcus aureus strain AR_0226 chromosome, complete genome	0.5687139999999999	-1.30202	0.06806248387792668
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP014392	Staphylococcus aureus strain USA300-SUR9, complete genome	0.5716939999999999	-1.32805	0.06934281189831047
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP021907	Staphylococcus aureus strain Seattle 1945 isolate G478 chromosome, complete genome	0.556752	-1.33134	0.06897293874222696
+NC_007054	Staphylococcus phage 47, complete genome	CP029681	Staphylococcus aureus strain AR_0473 chromosome, complete genome	0.56688	-1.30169	0.06866565064535628
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP012595	Staphylococcus aureus strain HOU1444-VR plasmid pVR-MSSA_02, complete sequence	0.416006	-1.38476	0.0960769911166065
+NC_007054	Staphylococcus phage 47, complete genome	CP022905	Staphylococcus aureus strain 628 chromosome, complete genome	0.558646	-1.32817	0.06239215328625825
+NC_007054	Staphylococcus phage 47, complete genome	CP029658	Staphylococcus aureus strain AR_0467 chromosome, complete genome	0.58083	-1.27522	0.06796580555387959
+NC_007054	Staphylococcus phage 47, complete genome	CP029678	Staphylococcus aureus strain AR_0216 chromosome, complete genome	0.5718559999999999	-1.32752	0.06948198960743823
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP026964	Staphylococcus aureus strain FDAARGOS_2 chromosome, complete genome	0.5655060000000001	-1.33059	0.07016502599539712
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP014444	Staphylococcus aureus strain USA300-SUR24, complete genome	0.571706	-1.32802	0.06940374019521331
+NC_007054	Staphylococcus phage 47, complete genome	NC_002951	Staphylococcus aureus subsp. aureus COL, complete genome	0.5640339999999999	-1.30704	0.06800896545672767
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LT992473	Staphylococcus aureus isolate 14_5418 genome assembly, chromosome: I	0.567276	-1.32983	0.0700305963374484
+NC_007054	Staphylococcus phage 47, complete genome	LR134193	Staphylococcus aureus strain NCTC13616 genome assembly, chromosome: 1	0.5666340000000001	-1.33152	0.06969895859992564
+NC_007054	Staphylococcus phage 47, complete genome	CP025031	Staphylococcus haemolyticus strain SGAir0252 chromosome, complete genome	0.545676	-1.33428	0.07185725467972344
+NC_007054	Staphylococcus phage 47, complete genome	CP025495	Staphylococcus aureus subsp. aureus strain 3020.C01 chromosome, complete genome	0.568346	-1.3019	0.06759146236220319
+NC_007054	Staphylococcus phage 47, complete genome	CP027788	Staphylococcus aureus strain CMRSA-6 chromosome, complete genome	0.5619620000000001	-1.32728	0.06933442075980771
+NC_007054	Staphylococcus phage 47, complete genome	LS483484	Staphylococcus aureus strain NCTC13277 genome assembly, chromosome: 1	0.567578	-1.33131	0.07035592567182611
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP018205	Staphylococcus aureus subsp. aureus strain HG001, complete genome	0.572496	-1.33162	0.07151925010674227
+NC_007054	Staphylococcus phage 47, complete genome	LT996891	Staphylococcus aureus isolate 24117-WT genome assembly, chromosome: I	0.5610120000000001	-1.30461	0.06958757658089157
+NC_007054	Staphylococcus phage 47, complete genome	NC_016941	Staphylococcus argenteus MSHR1132 complete genome sequence	0.5544720000000001	-1.33174	0.0679725359368741
+NC_007054	Staphylococcus phage 47, complete genome	CP029663	Staphylococcus aureus strain AR_0228 chromosome, complete genome	0.562044	-1.32827	0.06602011527996675
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP025395	Staphylococcus aureus O46 chromosome, complete genome	0.56755	-1.30791	0.06774949816826724
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP029172	Staphylococcus aureus strain PTDrAP2 chromosome, complete genome	0.563588	-1.305	0.06598217734896232
+NC_007054	Staphylococcus phage 47, complete genome	NC_017342	Staphylococcus aureus subsp. aureus TCH60, complete genome	0.564372	-1.30123	0.068864985748764
+NC_007054	Staphylococcus phage 47, complete genome	LR130513	Staphylococcus aureus strain BPH2900 genome assembly, chromosome: 1	0.5670740000000001	-1.33131	0.06945210505536395
+NC_007054	Staphylococcus phage 47, complete genome	LT992468	Staphylococcus aureus isolate 12_LA_293 genome assembly, chromosome: I	0.5754239999999999	-1.32874	0.06915377364242255
+NC_007054	Staphylococcus phage 47, complete genome	CP026074	Staphylococcus aureus strain HPV107 chromosome, complete genome	0.5768059999999999	-1.33156	0.070740722017669
+NC_007054	Staphylococcus phage 47, complete genome	CP029030	Staphylococcus aureus subsp. aureus strain CAR chromosome, complete genome	0.566192	-1.3299	0.06977673870329422
+NC_007054	Staphylococcus phage 47, complete genome	CP015447	Staphylococcus aureus strain M92 chromosome, complete genome	0.56193	-1.33016	0.07107093282843302
+NC_007054	Staphylococcus phage 47, complete genome	CP022904	Staphylococcus aureus strain 629 chromosome, complete genome	0.5586979999999999	-1.33216	0.07618830557476777
+NC_007054	Staphylococcus phage 47, complete genome	CP014057	Staphylococcus saprophyticus strain FDAARGOS_137, complete genome	0.531964	-1.33301	0.06772500718994993
+NC_007054	Staphylococcus phage 47, complete genome	LS483316	Staphylococcus aureus strain NCTC13395 genome assembly, chromosome: 1	0.557924	-1.33198	0.07103797096527333
+NC_007054	Staphylococcus phage 47, complete genome	CP025396	Staphylococcus haemolyticus strain 83131B chromosome, complete genome	0.5420119999999999	-1.33551	0.06389466480514955
+NC_007054	Staphylococcus phage 47, complete genome	NC_007795	Staphylococcus aureus subsp. aureus NCTC 8325 chromosome, complete genome	0.572404	-1.33164	0.07151350318359591
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP016858	Staphylococcus aureus subsp. aureus strain 1971.C01 chromosome, complete genome	0.569062	-1.30183	0.06764998766913562
+NC_007054	Staphylococcus phage 47, complete genome	NC_022442	Staphylococcus aureus subsp. aureus SA957, complete genome	0.558358	-1.3312	0.06889167978814316
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP016073	Staphylococcus pseudintermedius strain 081661, complete genome	0.499706	-1.34244	0.07231467544875508
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LT992475	Staphylococcus aureus isolate 20_LA_415 genome assembly, chromosome: I	0.57155	-1.32857	0.07055164991966179
+NC_007054	Staphylococcus phage 47, complete genome	LR134086	Staphylococcus aureus strain NCTC13142 genome assembly, chromosome: 1	0.56752	-1.33103	0.06951405767363159
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP026961	Staphylococcus aureus strain FDAARGOS_10 chromosome, complete genome	0.5765279999999999	-1.29019	0.05957026269547234
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP027848	Staphylococcus muscae strain ATCC 49910 chromosome, complete genome	0.452318	-1.34337	0.06373309721901357
+NC_007054	Staphylococcus phage 47, complete genome	CP029172	Staphylococcus aureus strain PTDrAP2 chromosome, complete genome	0.563588	-1.305	0.06598217734896232
+NC_007054	Staphylococcus phage 47, complete genome	CP028190	Staphylococcus aureus strain CFSAN018749 chromosome, complete genome	0.570794	-1.30162	0.06785168452955369
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LN626917	Staphylococcus aureus genome assembly Staphylococcus_aureus_ILRI_Eymole1/1, chromosome : I	0.570012	-1.33315	0.08123904576898426
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP013955	Staphylococcus aureus strain NCCP14562, complete genome	0.5682320000000001	-1.32988	0.06894535338742674
+NC_007054	Staphylococcus phage 47, complete genome	CP012120	Staphylococcus aureus subsp. aureus strain USA300_2014.C02 chromosome, complete genome	0.568418	-1.30188	0.06755976763294798
+NC_007054	Staphylococcus phage 47, complete genome	LR134271	Staphylococcus aureus strain NCTC7988 genome assembly, chromosome: 1	0.568118	-1.31015	0.0666723905433788
+NC_007054	Staphylococcus phage 47, complete genome	CP022682	Staphylococcus aureus strain 78 chromosome, complete genome	0.571256	-1.30237	0.06729887224386993
+NC_007054	Staphylococcus phage 47, complete genome	CP029667	Staphylococcus aureus strain AR_0225 chromosome, complete genome	0.5690379999999999	-1.30637	0.06695316598140959
+NC_007054	Staphylococcus phage 47, complete genome	LT992461	Staphylococcus aureus isolate 8_LA_272 genome assembly, chromosome: I	0.571278	-1.30175	0.06705752032290464
+NC_007054	Staphylococcus phage 47, complete genome	LR134085	Staphylococcus aureus strain NCTC12233 genome assembly, chromosome: 1	0.5675399999999999	-1.30132	0.068667466299365
+NC_007054	Staphylococcus phage 47, complete genome	CP022910	Staphylococcus aureus strain 164 chromosome, complete genome	0.56915	-1.33124	0.0702921368493575
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP018766	Staphylococcus aureus strain UCI62 chromosome, complete genome	0.568808	-1.32948	0.06927898874950571
+NC_007054	Staphylococcus phage 47, complete genome	CP029166	Staphylococcus aureus strain SVH7513 chromosome, complete genome	0.570702	-1.33156	0.06983111065227507
+NC_007054	Staphylococcus phage 47, complete genome	AP018923	Staphylococcus aureus JMUB3031 DNA, complete genome	0.568202	-1.32888	0.06957381744544777
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP015626	Staphylococcus pseudintermedius strain 063228, complete genome	0.49905999999999995	-1.34358	0.0743705305408124
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP022897	Staphylococcus aureus strain 128 chromosome, complete genome	0.5645899999999999	-1.3302	0.06707440660807658
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LS483311	Staphylococcus aureus strain NCTC6136 genome assembly, chromosome: 1	0.570486	-1.30115	0.06646658966355677
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP022582	Staphylococcus aureus strain FORC_062 chromosome, complete genome	0.5710759999999999	-1.3276	0.06824792316671473
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP014412	Staphylococcus aureus strain USA300-SUR14, complete genome	0.5717559999999999	-1.32799	0.06938904233882598
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP013616	Staphylococcus aureus strain RIVM1295, complete genome	0.563616	-1.33158	0.06895466231466468
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LT992469	Staphylococcus aureus isolate 15_LA_305 genome assembly, chromosome: I	0.56999	-1.30353	0.06753947016747262
+NC_007054	Staphylococcus phage 47, complete genome	CP029657	Staphylococcus aureus strain AR_0468 chromosome, complete genome	0.5807599999999999	-1.32972	0.07040193777446921
+NC_007054	Staphylococcus phage 47, complete genome	CP018629	Staphylococcus aureus strain MRSA107 chromosome, complete genome	0.572832	-1.3033	0.07886278414003674
+NC_007054	Staphylococcus phage 47, complete genome	CP032682	Staphylococcus pseudintermedius strain G3C4 chromosome, complete genome	0.49596399999999996	-1.34315	0.0716064536514963
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP022893	Staphylococcus aureus strain 61 chromosome, complete genome	0.5586180000000001	-1.32815	0.062392415663764154
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP017462	Staphylococcus nepalensis strain JS1 plasmid pSNJS102, complete sequence	0.325468	-1.3805	0.03514180922514662
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP009423	Staphylococcus aureus subsp. aureus strain USA300_SUR1, complete genome	0.571272	-1.33002	0.07086792620013901
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP014397	Staphylococcus aureus strain USA300-SUR10, complete genome	0.571678	-1.32804	0.06934253981374726
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP025495	Staphylococcus aureus subsp. aureus strain 3020.C01 chromosome, complete genome	0.568346	-1.3019	0.06759146236220319
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LS483301	Staphylococcus aureus strain NCTC13394 genome assembly, chromosome: 1	0.56724	-1.33293	0.07102244309198591
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP023391	Staphylococcus aureus subsp. aureus strain Newman chromosome, complete genome	0.5662499999999999	-1.32576	0.06825729789952083
+NC_007054	Staphylococcus phage 47, complete genome	LR130518	Staphylococcus aureus strain BPH2986 genome assembly, chromosome: 1	0.571868	-1.32644	0.06944139796377947
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LT906464	Staphylococcus muscae strain NCTC13833 genome assembly, chromosome: 1	0.45223199999999997	-1.34335	0.06372526473421035
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP019117	Staphylococcus aureus strain SJTUF_J27 chromosome, complete genome	0.566052	-1.30509	0.06790750356747928
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP022902	Staphylococcus aureus strain 165 chromosome, complete genome	0.577284	-1.33141	0.07033667175665821
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP012593	Staphylococcus aureus strain HOU1444-VR, complete genome	0.559516	-1.32631	0.06817781750485626
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LT598688	Staphylococcus aureus isolate Sa_Newman_UoM genome assembly, chromosome: 1	0.566362	-1.32576	0.06825716252264617
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP019945	Staphylococcus aureus strain BA01611 chromosome, complete genome	0.573556	-1.30834	0.06777230470971606
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP022903	Staphylococcus aureus strain 187 chromosome, complete genome	0.5587219999999999	-1.33211	0.07617256960981666
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP022904	Staphylococcus aureus strain 629 chromosome, complete genome	0.5586979999999999	-1.33216	0.07618830557476777
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP026071	Staphylococcus aureus strain NRS143 chromosome, complete genome	0.559822	-1.32961	0.07023013821057005
+NC_007054	Staphylococcus phage 47, complete genome	LS483300	Staphylococcus aureus strain NCTC7485 genome assembly, chromosome: 1	0.5552900000000001	-1.32951	0.06759155223361611
+NC_007054	Staphylococcus phage 47, complete genome	AP018587	Staphylococcus caprae JMUB898 DNA, complete genome	0.536634	-1.33032	0.06215985363217612
+NC_007054	Staphylococcus phage 47, complete genome	CP027848	Staphylococcus muscae strain ATCC 49910 chromosome, complete genome	0.452318	-1.34337	0.06373309721901357
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP029658	Staphylococcus aureus strain AR_0467 chromosome, complete genome	0.58083	-1.27522	0.06796580555387959
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LT992464	Staphylococcus aureus isolate 3_LA_115 genome assembly, chromosome: I	0.569928	-1.32885	0.07062406217996574
+NC_007054	Staphylococcus phage 47, complete genome	CP007539	Staphylococcus aureus subsp. aureus strain FDAARGOS_5 chromosome, complete genome	0.564038	-1.33203	0.0702830948976477
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP007672	Staphylococcus aureus strain CA12, complete genome	0.567124	-1.33076	0.07013388389123815
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP029667	Staphylococcus aureus strain AR_0225 chromosome, complete genome	0.5690379999999999	-1.30637	0.06695316598140959
+NC_007054	Staphylococcus phage 47, complete genome	CP035670	Staphylococcus aureus subsp. aureus strain VB9352 chromosome, complete genome	0.559672	-1.32962	0.06730617350328673
+NC_007054	Staphylococcus phage 47, complete genome	CP029669	Staphylococcus aureus strain AR_0223 chromosome, complete genome	0.56098	-1.32948	0.06957162309339605
+NC_007054	Staphylococcus phage 47, complete genome	LT992471	Staphylococcus aureus isolate 17_LA_343 genome assembly, chromosome: I	0.571758	-1.30016	0.06669346294983837
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP012011	Staphylococcus aureus subsp. aureus strain HC1340, complete genome	0.57307	-1.32549	0.0691531802585605
+NC_007054	Staphylococcus phage 47, complete genome	NC_013450	Staphylococcus aureus subsp. aureus ED98, complete genome	0.56348	-1.33018	0.0686289867739645
+NC_007054	Staphylococcus phage 47, complete genome	CP022902	Staphylococcus aureus strain 165 chromosome, complete genome	0.577284	-1.33141	0.07033667175665821
+NC_007054	Staphylococcus phage 47, complete genome	CP035369	Staphylococcus aureus strain LAC chromosome, complete genome	0.568928	-1.30194	0.06760476323803737
+NC_007054	Staphylococcus phage 47, complete genome	NC_017337	Staphylococcus aureus subsp. aureus ED133, complete genome	0.5669500000000001	-1.31024	0.0665685738864506
+NC_007054	Staphylococcus phage 47, complete genome	CP026953	Staphylococcus aureus strain FDAARGOS_48 chromosome, complete genome	0.567636	-1.30776	0.0674649987960015
+NC_007054	Staphylococcus phage 47, complete genome	CP029031	Staphylococcus aureus subsp. aureus strain CIT chromosome, complete genome	0.5689679999999999	-1.33	0.07041350296026147
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP026953	Staphylococcus aureus strain FDAARGOS_48 chromosome, complete genome	0.567636	-1.30776	0.0674649987960015
+NC_007054	Staphylococcus phage 47, complete genome	CP035671	Staphylococcus aureus subsp. aureus strain VB31683 chromosome, complete genome	0.5589500000000001	-1.32552	0.06809490454771078
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP015447	Staphylococcus aureus strain M92 chromosome, complete genome	0.56193	-1.33016	0.07107093282843302
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP029030	Staphylococcus aureus subsp. aureus strain CAR chromosome, complete genome	0.566192	-1.3299	0.06977673870329422
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP027788	Staphylococcus aureus strain CMRSA-6 chromosome, complete genome	0.5619620000000001	-1.32728	0.06933442075980771
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP022906	Staphylococcus aureus strain 546 chromosome, complete genome	0.5772079999999999	-1.33141	0.07033683487287314
+NC_007054	Staphylococcus phage 47, complete genome	AP019305	Staphylococcus aureus TUM9458 DNA, complete genome	0.572782	-1.33104	0.07023278976393715
+NC_007054	Staphylococcus phage 47, complete genome	LR027869	Staphylococcus aureus isolate BPH2869 genome assembly, chromosome: 1	0.5651740000000001	-1.33233	0.07096367036298452
+NC_007054	Staphylococcus phage 47, complete genome	NC_009487	Staphylococcus aureus subsp. aureus JH9, complete genome	0.5719099999999999	-1.30016	0.06635760377960459
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP010296	Staphylococcus aureus strain 31b_MRSA, complete genome	0.5689420000000001	-1.33	0.07042246184229672
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP029031	Staphylococcus aureus subsp. aureus strain CIT chromosome, complete genome	0.5689679999999999	-1.33	0.07041350296026147
+NC_007054	Staphylococcus phage 47, complete genome	CP031670	Staphylococcus aureus strain 64 chromosome, complete genome	0.57309	-1.32563	0.06853518058804883
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP030326	Staphylococcus aureus strain AR_474 chromosome, complete genome	0.5719099999999999	-1.30014	0.0663547469072733
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP012012	Staphylococcus aureus subsp. aureus strain HC1335 chromosome, complete genome	0.572168	-1.32932	0.06999233039679696
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP017115	Staphylococcus aureus strain FORC_045, complete genome	0.565852	-1.33202	0.07038783986274125
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LT615218	Staphylococcus aureus strain AUS0325 genome assembly, chromosome: 1	0.5587340000000001	-1.32869	0.06854826720877652
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP012692	Staphylococcus aureus strain FORC_027, complete genome	0.570884	-1.32758	0.06818440733769468
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP007670	Staphylococcus aureus strain M121, complete genome	0.57056	-1.3304	0.07072496810604016
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP017090	Staphylococcus aureus strain ISU935, complete genome	0.5675220000000001	-1.32879	0.06880326249959191
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP029680	Staphylococcus aureus strain AR_0215 chromosome, complete genome	0.572496	-1.30182	0.06914998880043612
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP015817	Staphylococcus aureus strain FORC_039, complete genome	0.55996	-1.32676	0.06371835398377405
+NC_007054	Staphylococcus phage 47, complete genome	CP030137	Staphylococcus aureus strain M51 chromosome, complete genome	0.5593699999999999	-1.33055	0.06971618888536209
+NC_007054	Staphylococcus phage 47, complete genome	CP029082	Staphylococcus aureus strain AR465 chromosome, complete genome	0.58077	-1.27425	0.0671962278163343
+NC_007054	Staphylococcus phage 47, complete genome	LR134305	Staphylococcus aureus strain NCTC1803 genome assembly, chromosome: 1	0.563654	-1.3124	0.06808294141923406
+NC_007054	Staphylococcus phage 47, complete genome	LT992458	Staphylococcus aureus isolate 7_4623 genome assembly, chromosome: I	0.5682119999999999	-1.32978	0.07059607544943647
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP016861	Staphylococcus aureus subsp. aureus strain 1969.N chromosome, complete genome	0.568352	-1.30187	0.06756479988927841
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP029166	Staphylococcus aureus strain SVH7513 chromosome, complete genome	0.570702	-1.33156	0.06983111065227507
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LT992460	Staphylococcus aureus isolate 9_LA_281 genome assembly, chromosome: I	0.570362	-1.32909	0.0703304541887541
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP029087	Staphylococcus aureus strain AR461 chromosome, complete genome	0.580092	-1.32991	0.07021419336329034
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP009554	Staphylococcus aureus subsp. aureus strain FORC_001, complete genome	0.567516	-1.33145	0.07000036767787245
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP009681	Staphylococcus aureus subsp. aureus strain Gv69, complete genome	0.573624	-1.30082	0.07798457391388643
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP014057	Staphylococcus saprophyticus strain FDAARGOS_137, complete genome	0.531964	-1.33301	0.06772500718994993
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP011685	Staphylococcus aureus strain ZJ5499, complete genome	0.567458	-1.33145	0.07003917770372706
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP026957	Staphylococcus aureus strain FDAARGOS_43 chromosome, complete genome	0.565266	-1.30165	0.06820061944788332
+NC_007054	Staphylococcus phage 47, complete genome	NC_017331	Staphylococcus aureus subsp. aureus TW20, complete genome	0.561856	-1.32735	0.0693801351648449
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP013231	Staphylococcus aureus strain UTSW MRSA 55, complete sequence	0.5681499999999999	-1.33013	0.07013047135089255
+NC_007054	Staphylococcus phage 47, complete genome	CP032481	Staphylococcus aureus strain O326 chromosome, complete genome	0.568292	-1.30673	0.06693964014270269
+NC_007054	Staphylococcus phage 47, complete genome	CP029032	Staphylococcus aureus subsp. aureus strain OXLIM chromosome, complete genome	0.568956	-1.33	0.07041359774558399
+NC_007054	Staphylococcus phage 47, complete genome	AP019306	Staphylococcus aureus TUM9463 DNA, complete genome	0.573284	-1.32852	0.06528912969678323
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LT992462	Staphylococcus aureus isolate 5_3949 genome assembly, chromosome: I	0.585154	-1.31084	0.09593588579037647
+NC_007054	Staphylococcus phage 47, complete genome	NC_009632	Staphylococcus aureus subsp. aureus JH1, complete genome	0.5719000000000001	-1.30016	0.06634382157024486
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP014415	Staphylococcus aureus strain USA300-SUR15, complete genome	0.571708	-1.32802	0.06940374186641836
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP019574	Staphylococcus aureus strain USA400-0051 chromosome, complete genome	0.566534	-1.33099	0.07005613402697969
+NC_007054	Staphylococcus phage 47, complete genome	NZ_AP017320	Staphylococcus aureus DNA, complete genome, strain: MI	0.5692699999999999	-1.32969	0.06956658837765514
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP009828	Staphylococcus aureus strain MS4, complete genome	0.5631619999999999	-1.33186	0.06897133925825026
+NC_007054	Staphylococcus phage 47, complete genome	AP018562	Staphylococcus argenteus 58113 DNA, complete genome	0.554968	-1.32963	0.06719940649622552
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP014432	Staphylococcus aureus strain USA300-SUR20, complete genome	0.571484	-1.32813	0.06951426869609263
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP007690	Staphylococcus aureus strain UA-S391_USA300, complete genome	0.568892	-1.33	0.07042324469281977
+NC_007054	Staphylococcus phage 47, complete genome	CP030136	Staphylococcus aureus strain S57 chromosome, complete genome	0.56457	-1.30855	0.06984594442027159
+NC_007054	Staphylococcus phage 47, complete genome	CP016858	Staphylococcus aureus subsp. aureus strain 1971.C01 chromosome, complete genome	0.569062	-1.30183	0.06764998766913562
+NC_007054	Staphylococcus phage 47, complete genome	LT992470	Staphylococcus aureus isolate 13_LA_301 genome assembly, chromosome: I	0.566962	-1.32976	0.07004402337267517
+NC_007054	Staphylococcus phage 47, complete genome	NC_017333	Staphylococcus aureus subsp. aureus ST398 complete genome	0.5764659999999999	-1.30398	0.0690346786599119
+NC_007054	Staphylococcus phage 47, complete genome	NC_007168	Staphylococcus haemolyticus JCSC1435 DNA, complete genome	0.54828	-1.33562	0.0649476522714523
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP017094	Staphylococcus aureus subsp. aureus strain 2148.C01 chromosome, complete genome	0.568418	-1.30194	0.06774341460462435
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP025396	Staphylococcus haemolyticus strain 83131B chromosome, complete genome	0.5420119999999999	-1.33551	0.06389466480514955
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP020619	Staphylococcus aureus strain JE2 chromosome, complete genome	0.5689040000000001	-1.33005	0.07043703377907089
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP029657	Staphylococcus aureus strain AR_0468 chromosome, complete genome	0.5807599999999999	-1.32972	0.07040193777446921
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LN831036	Staphylococcus aureus genome assembly NCTC13435, chromosome : 1	0.566276	-1.33108	0.0702244476638414
+NC_007054	Staphylococcus phage 47, complete genome	NZ_LT992458	Staphylococcus aureus isolate 7_4623 genome assembly, chromosome: I	0.5682119999999999	-1.32978	0.07059607544943647
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP025023	Staphylococcus argenteus strain XNO106 chromosome, complete genome	0.5552900000000001	-1.32911	0.06760655290842481
+NC_007054	Staphylococcus phage 47, complete genome	NZ_CP017468	Staphylococcus nepalensis strain JS11 plasmid pSNJS1102, complete sequence	0.42684599999999995	-1.38584	0.14130601400549012
+NC_007054	Staphylococcus phage 47, complete genome	CP029652	Staphylococcus aureus strain AR_0471 chromosome, complete genome	0.5608139999999999	-1.32989	0.07114836574399154

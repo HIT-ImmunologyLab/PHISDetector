@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Phage_capsid         PF05065.13 NC_007054.1_4001_5209_+ -            1.8e-18   61.5   1.1   2.4e-18   61.0   1.1   1.2   1   0   0   1   1   1   1 Phage capsid family
+Peptidase_M23        PF01551.22 NC_007054.1_8539_14739_+ -              1e-22   74.9   0.7   3.3e-22   73.3   0.7   2.0   1   0   0   1   1   1   1 Peptidase family M23
+Sipho_tail           PF05709.11 NC_007054.1_14739_15563_+ -            8.8e-35  115.0   7.6   1.1e-34  114.7   7.6   1.1   1   0   0   1   1   1   1 Phage tail protein
+Amidase_3            PF01520.18 NC_007054.1_20419_21873_+ -            1.5e-41  137.1   0.3   2.1e-41  136.6   0.3   1.2   1   0   0   1   1   1   1 N-acetylmuramoyl-L-alanine amidase
+HTH_3                PF01381.22 NC_007054.1_27163_27777_- -            2.6e-14   47.8   0.1   4.3e-14   47.1   0.1   1.4   1   0   0   1   1   1   1 Helix-turn-helix
+HNH                  PF01844.23 NC_007054.1_44392_44706_+ -            1.2e-15   52.1   5.9   2.8e-15   50.9   4.7   2.1   2   0   0   2   2   2   1 HNH endonuclease
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      /100T/ganr/PHIS/test1/module_results/pro_pro_int/NC_000.faa
+# Target file:     /100T/ganr/PHIS/database/db/database/domain_int/interacting_domain.hmm
+# Option settings: /100T/ganr/PHIS/software/hmm/hmmscan --tblout /100T/ganr/PHIS/test1/module_results/pro_pro_int/phage_domain.xml -E 1e-10 /100T/ganr/PHIS/database/db/database/domain_int/interacting_domain.hmm /100T/ganr/PHIS/test1/module_results/pro_pro_int/NC_000.faa 
+# Current dir:     /100T/ganr/PHIS/bin
+# Date:            Mon Feb 10 12:25:25 2020
+# [ok]

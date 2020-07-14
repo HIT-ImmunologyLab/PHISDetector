@@ -1,0 +1,1 @@
+/100T/ganr/PHIS/bin/PHIS_protein_protein_int --input_file /100T/ganr/PHIS/test1/NC_000.fna --output /100T/ganr/PHIS/test1/module_results/pro_pro_int --min_PPI 1 --min_DDI 5

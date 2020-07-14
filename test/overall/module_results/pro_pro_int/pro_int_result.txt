@@ -1,0 +1,1 @@
+phage_id	phage_def	host_id	host_def	pro_pro_int_num	phage_int_pro_percent	bac_int_pro_percent	pro_pro_int_num_domain	domain_phage_int_pro_percent	domain_bac_int_pro_percent

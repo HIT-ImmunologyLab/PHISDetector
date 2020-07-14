@@ -1,0 +1,1 @@
+/100T/ganr/PHIS/bin/PHIS_wish --input_dir /100T/ganr/PHIS/test1/strain_info/fasta_sequence --output /100T/ganr/PHIS/test1/module_results/genehomo/wish --out_dict /100T/ganr/PHIS/test1/module_results/phage_hit_hosts_crispr_prophage_blast_all_dict.npy

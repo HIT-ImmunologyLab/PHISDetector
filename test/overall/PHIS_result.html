@@ -1,0 +1,295 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+  <title>PHIS</title>
+  <link rel="stylesheet" href="static/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="static/css/jquery.dataTables.min.css">
+  <link rel="stylesheet" type="text/css" href="static/css/buttons.dataTables.min.css">
+  <link rel="stylesheet" type="text/css" href="static/css/cs-select.css">
+<link rel="stylesheet" type="text/css" href="static/css/cs-skin-underline.css">
+  <link rel="shortcut icon" href="static/images/title.png">
+  <script type="text/javascript" language="javascript" src="static/js/jquery.js"></script>
+  <script src="static/js/jquery.min.js"></script>
+  <script type="text/javascript" language="javascript" src="static/js/bootstrap.js"></script>
+  <script type="text/javascript" language="javascript" src="static/js/datatable/jquery.dataTables.js"></script>
+  <script type="text/javascript" language="javascript" src="static/js/datatable/dataTables.buttons.min.js"></script>
+  <script type="text/javascript" language="javascript" src="static/js/datatable/jszip.min.js"></script>
+  <script type="text/javascript" language="javascript" src="static/js/datatable/pdfmake.min.js"></script>
+  <script type="text/javascript" language="javascript" src="static/js/datatable/vfs_fonts.js"></script>
+  <script type="text/javascript" language="javascript" src="static/js/datatable/buttons.html5.min.js"></script>
+  <script type="text/javascript" language="javascript" src="static/js/datatable/bootstrap.js"></script>
+   <script src="https://cdn.bootcss.com/clipboard.js/2.0.4/clipboard.min.js"></script>
+   <script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+   <style>
+  #context{
+  margin:0 auto;
+  color:#3f3f3f;
+  font-size:14px;
+  text-align: center;
+  width:1000px;
+  }
+  </style>
+  </head>
+
+<script type="text/javascript">
+  $(function(){
+    //1、动态增加表头
+    //$("thead>tr").append("<th style='text-align: center;'>"+需要填写的表头+"</th>");
+
+    //2、表格的初始化
+    var table=$('table.display').DataTable({
+      language: {
+          aria: {
+              sortAscending: ": activate to sort column ascending",
+              sortDescending: ": activate to sort column descending"
+          },
+          emptyTable: "No relative records",
+          info: "_START_ - _END_ rows/total _TOTAL_ rows",
+          infoEmpty: "No records",
+          infoFiltered: "(1 to _MAX_ rows)",
+          zeroRecords: "No records",
+          lengthMenu: "_MENU_ rows for every page&nbsp&nbsp"
+      },
+      // 默认每页显示10行
+      pageLength: 10,
+      deferLoading: 0,
+      dom: 'Bfrtip',
+      order: [],
+      //"order": [[ 3, "desc" ],[4,"desc"],[5,"desc"]],
+      buttons: [
+          'copyHtml5',
+          'excelHtml5',
+          'csvHtml5'
+      ]
+    });
+    }); 
+</script>
+
+<body>
+    <center>
+    <div>
+    <header>
+      <div style="height: 80px;width:70%;text-align: left;">
+        <img src="static/images/title4.png" style="height: 80px;width:60%;"/>
+      </div>
+    </header>
+    <div id="content" style="width:70%;">
+
+	<div class="panel-group" id="accordion">
+		<div class="panel panel-danger" style="text-align: left;">
+			<div class="panel-heading">
+			<h3 class="panel-title">      
+			<a href="#">Phage Information</a>
+			</h3>
+			</div>
+			<div class="panel-body">
+        <table class="display table table-striped table-hover table-bordered" style="border:0px;">
+        <thead>
+        <tr>
+          <th style='text-align: center;'>Phage_ID</th>
+          <th style='text-align: center;'>Phage_Def</th>
+          <th style='text-align: center;'>Genome_Size</th>
+          <th style='text-align: center;'>Protein_Number</th>
+          <th style='text-align: center;'>Host_Number</th>
+        </tr>
+      </thead>
+      <tbody>
+
+	<tr>
+<td>NC_024711</td>
+<td>NC_024711.1 Uncultured crAssphage, complete genome</td>
+<td>97065</td>
+<td>82</td>
+<td>6</td>
+</tr></tbody>
+	</table>        
+		<p><strong>Annotation:</strong>if phage genome size < 1000bp,the program will not consider this phage.</p>
+		</div>
+	</div>
+	</div>
+
+	
+	<div class="panel panel-info" style="text-align: left;">
+		<div class="panel-heading">
+			<h3 class="panel-title">      
+			<a href="#"></a>Results Visualization</a>
+			</h3>
+			</div>
+			<div class="panel-body">
+	<div style="height: 50px;"></div>
+	<div>
+		<p style="text-align: center;border-bottom: 1px black solid">
+		<strong>1.NC_024711</strong>
+		</p>
+		<table class ="display" class="table table-striped table-hover table-bordered">
+		<thead>
+		<tr>
+			<th>Host_ID</th>
+			<th>Host_Def</th>
+			<th>Score</th>
+			<th>CRISPR</th>
+			<th>Prophage</th>
+			<th>GeneHomolog</th>
+			<th>Protein_Protein_Interaction</th>
+			<th>Oligonucleotide profile/sequence composition</th>
+		</tr>
+		</thead>
+		<tbody>
+
+		<tr style="text-align: center;">
+			<td><a href="https://www.ncbi.nlm.nih.gov/nuccore/NC_021284" target="_blank">NC_021284</a></td>
+			<td>Spiroplasma syrphidicola EA-1, complete genome</td>
+			<td>0.9143</td>
+			
+					<td style="color:#F05555;font-size: 17px;">
+					Yes<span class="glyphicon glyphicon-ok-sign" aria-hidden="true"></span>
+					</td>
+				
+					<td style="color:#9DE867;font-size: 17px;">
+					No<span class="glyphicon glyphicon-remove-sign" aria-hidden="true"></span>
+					</td>
+				
+					<td style="color:#9DE867;font-size: 17px;">
+					No<span class="glyphicon glyphicon-remove-sign" aria-hidden="true"></span>
+					</td>
+				
+					<td style="color:#9DE867;font-size: 17px;">
+					No<span class="glyphicon glyphicon-remove-sign" aria-hidden="true"></span>
+					</td>
+				
+					<td style="color:#F05555;font-size: 17px;">
+					Yes<span class="glyphicon glyphicon-ok-sign" aria-hidden="true"></span>
+					</td>
+				<tr style="text-align: center;">
+			<td><a href="https://www.ncbi.nlm.nih.gov/nuccore/NC_020419" target="_blank">NC_020419</a></td>
+			<td>Uncultured Termite group 1 bacterium phylotype Rs-D17 DNA, complete genome</td>
+			<td>0.9135</td>
+			
+					<td style="color:#F05555;font-size: 17px;">
+					Yes<span class="glyphicon glyphicon-ok-sign" aria-hidden="true"></span>
+					</td>
+				
+					<td style="color:#9DE867;font-size: 17px;">
+					No<span class="glyphicon glyphicon-remove-sign" aria-hidden="true"></span>
+					</td>
+				
+					<td style="color:#9DE867;font-size: 17px;">
+					No<span class="glyphicon glyphicon-remove-sign" aria-hidden="true"></span>
+					</td>
+				
+					<td style="color:#9DE867;font-size: 17px;">
+					No<span class="glyphicon glyphicon-remove-sign" aria-hidden="true"></span>
+					</td>
+				
+					<td style="color:#F05555;font-size: 17px;">
+					Yes<span class="glyphicon glyphicon-ok-sign" aria-hidden="true"></span>
+					</td>
+				<tr style="text-align: center;">
+			<td><a href="https://www.ncbi.nlm.nih.gov/nuccore/NZ_CP019303" target="_blank">NZ_CP019303</a></td>
+			<td>Prevotella intermedia strain strain 17 chromosome II, complete sequence</td>
+			<td>0.9021</td>
+			
+					<td style="color:#F05555;font-size: 17px;">
+					Yes<span class="glyphicon glyphicon-ok-sign" aria-hidden="true"></span>
+					</td>
+				
+					<td style="color:#9DE867;font-size: 17px;">
+					No<span class="glyphicon glyphicon-remove-sign" aria-hidden="true"></span>
+					</td>
+				
+					<td style="color:#9DE867;font-size: 17px;">
+					No<span class="glyphicon glyphicon-remove-sign" aria-hidden="true"></span>
+					</td>
+				
+					<td style="color:#9DE867;font-size: 17px;">
+					No<span class="glyphicon glyphicon-remove-sign" aria-hidden="true"></span>
+					</td>
+				
+					<td style="color:#F05555;font-size: 17px;">
+					Yes<span class="glyphicon glyphicon-ok-sign" aria-hidden="true"></span>
+					</td>
+				<tr style="text-align: center;">
+			<td><a href="https://www.ncbi.nlm.nih.gov/nuccore/NZ_AP014926" target="_blank">NZ_AP014926</a></td>
+			<td>Prevotella intermedia DNA, chromosome 1, complete genome, strain: 17-2</td>
+			<td>0.9021</td>
+			
+					<td style="color:#F05555;font-size: 17px;">
+					Yes<span class="glyphicon glyphicon-ok-sign" aria-hidden="true"></span>
+					</td>
+				
+					<td style="color:#9DE867;font-size: 17px;">
+					No<span class="glyphicon glyphicon-remove-sign" aria-hidden="true"></span>
+					</td>
+				
+					<td style="color:#9DE867;font-size: 17px;">
+					No<span class="glyphicon glyphicon-remove-sign" aria-hidden="true"></span>
+					</td>
+				
+					<td style="color:#9DE867;font-size: 17px;">
+					No<span class="glyphicon glyphicon-remove-sign" aria-hidden="true"></span>
+					</td>
+				
+					<td style="color:#F05555;font-size: 17px;">
+					Yes<span class="glyphicon glyphicon-ok-sign" aria-hidden="true"></span>
+					</td>
+				<tr style="text-align: center;">
+			<td><a href="https://www.ncbi.nlm.nih.gov/nuccore/NC_017860" target="_blank">NC_017860</a></td>
+			<td>Prevotella intermedia 17 chromosome I, complete sequence</td>
+			<td>0.9021</td>
+			
+					<td style="color:#F05555;font-size: 17px;">
+					Yes<span class="glyphicon glyphicon-ok-sign" aria-hidden="true"></span>
+					</td>
+				
+					<td style="color:#9DE867;font-size: 17px;">
+					No<span class="glyphicon glyphicon-remove-sign" aria-hidden="true"></span>
+					</td>
+				
+					<td style="color:#9DE867;font-size: 17px;">
+					No<span class="glyphicon glyphicon-remove-sign" aria-hidden="true"></span>
+					</td>
+				
+					<td style="color:#9DE867;font-size: 17px;">
+					No<span class="glyphicon glyphicon-remove-sign" aria-hidden="true"></span>
+					</td>
+				
+					<td style="color:#F05555;font-size: 17px;">
+					Yes<span class="glyphicon glyphicon-ok-sign" aria-hidden="true"></span>
+					</td>
+				<tr style="text-align: center;">
+			<td><a href="https://www.ncbi.nlm.nih.gov/nuccore/NZ_CP009238" target="_blank">NZ_CP009238</a></td>
+			<td>Basilea psittacipulmonis DSM 24701, complete genome</td>
+			<td>0.8883</td>
+			
+					<td style="color:#F05555;font-size: 17px;">
+					Yes<span class="glyphicon glyphicon-ok-sign" aria-hidden="true"></span>
+					</td>
+				
+					<td style="color:#9DE867;font-size: 17px;">
+					No<span class="glyphicon glyphicon-remove-sign" aria-hidden="true"></span>
+					</td>
+				
+					<td style="color:#9DE867;font-size: 17px;">
+					No<span class="glyphicon glyphicon-remove-sign" aria-hidden="true"></span>
+					</td>
+				
+					<td style="color:#9DE867;font-size: 17px;">
+					No<span class="glyphicon glyphicon-remove-sign" aria-hidden="true"></span>
+					</td>
+				
+					<td style="color:#F05555;font-size: 17px;">
+					Yes<span class="glyphicon glyphicon-ok-sign" aria-hidden="true"></span>
+					</td>
+				
+		</tbody>
+		</table>
+		</div>
+		</div>			
+      	</div>
+
+		
+	</div>
+	</div>
+	</body>
+	</html>
+	

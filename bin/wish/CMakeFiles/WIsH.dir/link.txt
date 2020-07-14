@@ -1,0 +1,1 @@
+/usr/bin/c++    -fopenmp -std=c++11   CMakeFiles/WIsH.dir/mm.cpp.o CMakeFiles/WIsH.dir/main.cpp.o  -o WIsH -rdynamic 

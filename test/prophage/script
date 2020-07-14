@@ -1,0 +1,1 @@
+/100T/ganr/PHIS/bin/PHIS_prophage --input_file /100T/ganr/PHIS/test1/NC_000.fna --output /100T/ganr/PHIS/test1/module_results/prophage --min_per_prophage 30 --min_id_prophage 70 --min_cov_prophage 30

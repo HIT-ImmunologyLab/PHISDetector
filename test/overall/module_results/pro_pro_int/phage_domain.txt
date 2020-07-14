@@ -1,0 +1,6 @@
+NC_007054.1_4001_5209_+	pfam05065	Phage_capsid	1.8e-18	61.5	1.1	Phage capsid family
+NC_007054.1_8539_14739_+	pfam01551	Peptidase_M23	1e-22	74.9	0.7	Peptidase family M23
+NC_007054.1_14739_15563_+	pfam05709	Sipho_tail	8.8e-35	115.0	7.6	Phage tail protein
+NC_007054.1_20419_21873_+	pfam01520	Amidase_3	1.5e-41	137.1	0.3	N-acetylmuramoyl-L-alanine amidase
+NC_007054.1_27163_27777_-	pfam01381	HTH_3	2.6e-14	47.8	0.1	Helix-turn-helix
+NC_007054.1_44392_44706_+	pfam01844	HNH	1.2e-15	52.1	5.9	HNH endonuclease

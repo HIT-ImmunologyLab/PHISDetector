@@ -1,0 +1,1 @@
+/100T/ganr/PHIS/bin/PHIS_codon --input_file /100T/ganr/PHIS/test1/NC_000.fna --output /100T/ganr/PHIS/test1/module_results/genehomo/codon --out_dict /100T/ganr/PHIS/test1/module_results/phage_hit_hosts_crispr_prophage_blast_all_dict.npy

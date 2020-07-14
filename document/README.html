@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>README</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+/* GitHub stylesheet for MarkdownPad (http://markdownpad.com) */
+/* Author: Nicolas Hery - http://nicolashery.com */
+/* Version: b13fe65ca28d2e568c6ed5d7f06581183df8f2ff */
+/* Source: https://github.com/nicolahery/markdownpad-github */
+
+/* RESET
+=============================================================================*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* BODY
+=============================================================================*/
+
+body {
+  font-family: Helvetica, arial, freesans, clean, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+  padding: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+body>*:first-child {
+  margin-top: 0 !important;
+}
+
+body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* BLOCKS
+=============================================================================*/
+
+p, blockquote, ul, ol, dl, table, pre {
+  margin: 15px 0;
+}
+
+/* HEADERS
+=============================================================================*/
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  font-size: 28px;
+  color: #000;
+}
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #ccc;
+  color: #000;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  color: #777;
+  font-size: 14px;
+}
+
+body>h2:first-child, body>h1:first-child, body>h1:first-child+h2, body>h3:first-child, body>h4:first-child, body>h5:first-child, body>h6:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
+  margin-top: 10px;
+}
+
+/* LINKS
+=============================================================================*/
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* LISTS
+=============================================================================*/
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul li > :first-child, 
+ol li > :first-child, 
+ul li ul:first-of-type, 
+ol li ol:first-of-type, 
+ul li ol:first-of-type, 
+ol li ul:first-of-type {
+  margin-top: 0px;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin-bottom: 0;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 15px 0 5px;
+}
+
+dl dt:first-child {
+  padding: 0;
+}
+
+dl dt>:first-child {
+  margin-top: 0px;
+}
+
+dl dt>:last-child {
+  margin-bottom: 0px;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+dl dd>:first-child {
+  margin-top: 0px;
+}
+
+dl dd>:last-child {
+  margin-bottom: 0px;
+}
+
+/* CODE
+=============================================================================*/
+
+pre, code, tt {
+  font-size: 12px;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+}
+
+code, tt {
+  margin: 0 0px;
+  padding: 0px 0px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+}
+
+pre>code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+pre code, pre tt {
+  background-color: transparent;
+  border: none;
+}
+
+kbd {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #DDDDDD;
+    background-image: linear-gradient(#F1F1F1, #DDDDDD);
+    background-repeat: repeat-x;
+    border-color: #DDDDDD #CCCCCC #CCCCCC #DDDDDD;
+    border-image: none;
+    border-radius: 2px 2px 2px 2px;
+    border-style: solid;
+    border-width: 1px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 10px;
+    padding: 1px 4px;
+}
+
+/* QUOTES
+=============================================================================*/
+
+blockquote {
+  border-left: 4px solid #DDD;
+  padding: 0 15px;
+  color: #777;
+}
+
+blockquote>:first-child {
+  margin-top: 0px;
+}
+
+blockquote>:last-child {
+  margin-bottom: 0px;
+}
+
+/* HORIZONTAL RULES
+=============================================================================*/
+
+hr {
+  clear: both;
+  margin: 15px 0;
+  height: 0px;
+  overflow: hidden;
+  border: none;
+  background: transparent;
+  border-bottom: 4px solid #ddd;
+  padding: 0;
+}
+
+/* TABLES
+=============================================================================*/
+
+table th {
+  font-weight: bold;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 6px 13px;
+}
+
+table tr {
+  border-top: 1px solid #ccc;
+  background-color: #fff;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+/* IMAGES
+=============================================================================*/
+
+img {
+  max-width: 100%
+}
+</style>
+</head>
+<body>
+<h1>PHISDetector: a great tool to detect and systematically study diverse in silico phage-host interaction signals</h1>
+<p><a href="https://github.com/iwillnever/PHISDector"><img src="https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square" alt="standard-readme compliant" /></a></p>
+<h2>Table of Contents</h2>
+<ul>
+<li><a href="#background">Background</a></li>
+<li><a href="requirements">Requirements</a></li>
+<li><a href="#install">Install</a></li>
+<li><a href="#usage">Usage</a></li>
+<li><a href="#contributors">Contributors</a></li>
+<li><a href="#license">License</a></li>
+</ul>
+<h2>Background</h2>
+<p>Phage-host interactions are appealing systems to study bacterial adaptive evolution and are increasingly recognized as playing an important role in human health and diseases, which may contribute to novel therapeutic agents, such as phage therapy to combat multi-drug resistant infections.PHISDetector is the first comprehensive tool to detect and systematically study diverse in silico phage-host interaction signals, including analyses for oligonucleotide profile/sequence composition, CRISPR-targeting, prophages,alignment-based similarity, protein-protein interactions, special gene check and co-occurrence/co-abundance patterns.Further more,PHISDector provides fancy visualizations for users in <a href="http://www.microbiome-bigdata.com/PHISDetector/index/">http://www.microbiome-bigdata.com/PHISDetector/index/</a></p>
+<h2>Requirements</h2>
+<p>The source code is written by python3,c++ and wrapped by PyInstaller. Thus it requires python3 and c++ compiler. It works under Linux environment. The following python packages 
+are required.
+Requirements: </p>
+<ol>
+<li>
+<p>numpy</p>
+</li>
+<li>
+<p>Biopython</p>
+</li>
+<li>
+<p>joblib</p>
+</li>
+</ol>
+<h2>Development &amp; Funding</h2>
+<p>The development of PHISDector was supported as a collaboration of School of Life Science and Technology, Harbin Institute of Technology.</p>
+<h2>Install</h2>
+<ul>
+<li>
+<p>step1:Download the whole packages and partial profiles from <a href="https://github.com/gancao/PHISDector">https://github.com/gancao/PHISDector</a></p>
+</li>
+<li>
+<p>step2:Download the rest of large profiles and databases from <a href="http://www.microbiome-bigdata.com/PHISDetector/index/download">http://www.microbiome-bigdata.com/PHISDetector/index/download</a></p>
+</li>
+<li>
+<p>step3:Unpack the corresponding files downloaded from step2 and put these large profiles and databases in the directory named database in step1.</p>
+</li>
+<li>
+<p>step4:When you organize the whole files well,the corresponding directory structure are displayed as shown below. 
+<img src="https://github.com/gancao/PHISDector/tree/master/document/images/standalone_directory_structure.png" /></p>
+</li>
+</ul>
+<h2>Usage</h2>
+<p>The standalone version of PHISDector can predict the hosts of query phages in fasta ,multi-fasta or GenBank format,combining 5 different signals including sequence composition, CRISPR-targeting, prophages, regions of genetic homology and protein-protein or domain-domain interactions.The program of prediction of hosts was divided into two steps.First,detect all the candidate hosts in terms of CRISPR-targeting, prophages and regions of genetic homology,satisfying the <strong>loose</strong> criteria referred in the paper <a href="http://www.microbiome-bigdata.com/PHISDetector/index/">http://www.microbiome-bigdata.com/PHISDetector/index/</a>.Second,the candidate hosts satisfying the strict criteria will be directly output and the rest of candidate hosts will be sent to the machine learning models including RandomForest(RF), Decision Trees (DT), Logistic Regression (LR), and Support Vector Machines (SVM) with RBF kernel and linear kernel, Gaussian Naive Bayes, and Bernoulli Naive Bayes.Finally,the consensus results will be written to a text file and intermediate results of each signal will be saved in corresponding directory.</p>
+<ul>
+<li>step1:Add the PHIS directory named bin into your environment PATH or you can use the absolute path to run the program.</li>
+<li>step2:To run a prediction, you should proceed like the following instructions.The required input is input file path in fasta or multi-fasta or Genbank format and output directory.The optional model input is signal name(all,crispr,prophage,protein<em>protein</em>interaction,blast),the default option is all.The visualization html page is generated if you run all signals.If you want to see more parameters,please excute <code>PHIS</code> in command line.<br>
+In addition,the optional adjusting threshold parameters are listed as described below:<br>
+for <em>crispr</em>:<br>
+(1) min<em>mis</em>crispr <x> : Minimal mismatch of a Blastn hit on hit spacers(default: 2)<br>
+(2) min<em>cov<em>crispr <x> : Minimal % coverage of a Blastn hit on hit spacers(default: 70)<br>
+for <em>prophage</em>:<br>
+(3) min</em>per<em>prophage <x> : Minimal % percentage of hit proteins on hit prophage region(default:30)<br>
+(4) min</em>id</em>prophage <x> : Minimal % identity of hit region on hit prophage region by making blastn(default:70)<br>
+(5) min<em>cov</em>prophage <x> : Minimal % coverage of hit region on hit prophage region by making blastn(default:30)<br>
+for <em>protein<em>protein</em>interaction</em>:<br>
+(6) min<em>PPI <x> : Minimal PPI number of a pair of phage-host pair(default:1)<br>
+(7) min</em>DDI <x> : Minimal DDI number of a pair of phage-host pair(default:5)<br>
+for <em>blast</em>:<br>
+(8) min<em>per</em>blast <x> : Minimal % percentage of hit proteins on query phage and host by making blastp(default:10)<br>
+(9) min<em>id<em>blast <x> : Minimal % identity of hit region on query phage and host by making blastn(default:70)<br>
+(10) min</em>cov</em>blast <x> : Minimal % coverage of hit region on query phage and host by making blastn(default:10)</li>
+<li>step3:Predict the hosts of your query phages using all the signals with a simple command:<br>
+<code>PHIS --input &lt;file path&gt; --output &lt;folder name&gt;</code></li>
+<li>step4:Predict the hosts of your query phages using single signal with a simple command:
+<code>PHIS --input &lt;file path&gt; --output &lt;folder name&gt; --model all/crispr/prophage/protein_protein_interaction/blast</code></li>
+<li>step5:Predict the hosts of your query phages using the criterias you want with a simple example command,x is integer:<br>
+<code>PHIS --input &lt;file path&gt; --output &lt;folder name&gt; --model crispr --min_mis_crispr &lt;x&gt; --min_cov_crispr &lt;x&gt;</code></li>
+</ul>
+<h2>Contributors</h2>
+<p>This project exists thanks to all the people who contribute.</p>
+<h2>License</h2>
+<p><a href="LICENSE">MIT</a> © Richard Littauer</p>
+
+</body>
+</html>
+<!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->

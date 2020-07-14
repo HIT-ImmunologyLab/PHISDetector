@@ -1,0 +1,3 @@
+/zrom/zfx/PhageHostPredction/WIsH/WIsH/CMakeFiles/edit_cache.dir
+/zrom/zfx/PhageHostPredction/WIsH/WIsH/CMakeFiles/rebuild_cache.dir
+/zrom/zfx/PhageHostPredction/WIsH/WIsH/CMakeFiles/WIsH.dir
