@@ -1,5 +1,5 @@
 # PHISDetector: a great tool to detect and systematically study diverse in silico phage-host interaction signals
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/iwillnever/PHISDector)
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/HIT-ImmunologyLab/PHISDetector)
 
 ## Table of Contents
 
@@ -73,7 +73,7 @@ for *blast*: the GeneHomolog module<br>
 `PHIS --input <file path> --output <folder name> --min_mis_crispr <x> --min_cov_crispr <x>`
 `PHIS --input <file path> --output <folder name> --model crispr --min_mis_crispr <x> --min_cov_crispr <x>`
 
-##Examples
+## Examples
 You can find a directory named "test" in the PHISDector package. Five test examples, all,crispr,prophage,protein_protein_interaction and blast have been prepared for users.All the example input is "Staphylococcus_phage_47.gb"  in Genbank format.<br>
 (1) The folder named "all" contains the prediction results when the input file is Staphylococcus_phage_47.gb. The root directory contains "PHIS_result.html",the visualization page which visualizes and analyzes the prediction hosts of Staphylococcus phage 47 through browser.The file overall_result.txt in results folder lists all the possibly interactive hosts with Staphylococcus phage 47,tab delimited.other files are Intermediate files.There are 13 columns:
 
@@ -91,9 +91,9 @@ You can find a directory named "test" in the PHISDector package. Five test examp
 12. svm_linear: the possibility of the interaction between the input phage and the host based on svm linear machine learning model output
 13. logistic: the possibility of the interaction between the input phage and the host based on logistic machine learning model output
 
-![](https://github.com/gancao/PHISDector/tree/master/document/images/PHIS_result_visualization_add_description1.png)
+![](https://github.com/gancao/PHISDetector/tree/master/document/images/PHIS_result_visualization_add_description1.png)
 
-![](https://github.com/gancao/PHISDector/tree/master/document/images/PHIS_result_visualization_add_description2.png)
+![](https://github.com/gancao/PHISDetector/tree/master/document/images/PHIS_result_visualization_add_description2.png)
 
 The folder named "module_results" contains the corresponding results in each kind of signal.
 
