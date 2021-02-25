@@ -32,7 +32,7 @@ The development of PHISDector was supported as a collaboration of School of Life
 
 ## Install ##
 
-- step1:Download the whole packages and partial profiles from [https://github.com/gancao/PHISDector](https://github.com/gancao/PHISDector)
+- step1:Download the whole packages and partial profiles from [https://github.com/HIT-ImmunologyLab/PHISDetector](https://github.com/HIT-ImmunologyLab/PHISDetector)
 
 - step2:Download the rest of large profiles and databases from [http://www.microbiome-bigdata.com/PHISDetector/index/download](http://www.microbiome-bigdata.com/PHISDetector/index/download)
 
