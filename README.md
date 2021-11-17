@@ -1,4 +1,4 @@
-# PHISDetector: a great tool to detect and systematically study diverse in silico phage-host interaction signals
+# PHISDetector: a web tool to detect diverse in silico phage-host interaction signals
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/HIT-ImmunologyLab/PHISDetector)
 
 ## Table of Contents
