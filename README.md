@@ -36,6 +36,7 @@ The development of PHISDector was supported as a collaboration of School of Life
 git clone https://github.com/HIT-ImmunologyLab/PHISDetector.git
 ```
 - Step2. Download PHIS database for standalone from PHISDetector webserver and check MD5 
+
 Due to the size of the database is large, we recommend using -c (continue) and -b (background) parameter of wget to download the database to avoid the losses caused by network outages, and checking MD5 to ensure database integrity.
 ```
 ## md5 checksum: c485de234bf1fb5bc66cae83f678b6a5
