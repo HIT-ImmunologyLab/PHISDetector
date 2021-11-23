@@ -31,13 +31,13 @@ Requirements:
 The development of PHISDector was supported as a collaboration of School of Life Science and Technology, Harbin Institute of Technology.
 
 ## Install ##
-- Step1. Clone the repository of PHISDetector software from Github
+- Step1. Clone the repository of PHISDetector package from Github
 ```
 git clone https://github.com/HIT-ImmunologyLab/PHISDetector.git
 ```
 - Step2. Download PHIS database for standalone from PHISDetector webserver and check MD5 
 
-Due to the size of the database is large, we recommend using -c (continue) and -b (background) parameter of wget to download the database to avoid the losses caused by network outages, and checking MD5 to ensure database integrity.
+Due to the large size of the database file (~100G), we recommend using -c (continue) and -b (background) parameters of wget to avoid the data loss caused by network outages, and checking MD5 to verify the integrity of the downloaded files.
 ```
 ## md5 checksum: c485de234bf1fb5bc66cae83f678b6a5
 ### Download database
@@ -45,11 +45,11 @@ wget -c -b http://www.microbiome-bigdata.com/PHISDetector/static/download/PHIS/P
 ### Check MD5
 md5sum path/to/download/PHIS_database.tar.gz
 ```
-- Step3. Unpackage and put the database download in step2 to the database directory of PHISDetector
+- Step3. Unzip the database file to specified subdirectory under PHISDetector installation directory
 ```
-### unpackage database
+### Unzip the database file
 tar -zxvf path/to/PHIS_database.tar.gz
-### put the database in the specified location
+### Put the unzipped database files in specified subdirectory
 cp path/to/download/PHIS_database path/to/PHISDetector/database
 ```
 When you organize the whole files well,the corresponding directory structure are displayed as shown below. 
